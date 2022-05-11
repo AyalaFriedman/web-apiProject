@@ -1,0 +1,15 @@
+M:\web api\WebApiProject\DTO\bin\Debug\net5.0\DTO.deps.json
+M:\web api\WebApiProject\DTO\bin\Debug\net5.0\DTO.dll
+M:\web api\WebApiProject\DTO\bin\Debug\net5.0\ref\DTO.dll
+M:\web api\WebApiProject\DTO\bin\Debug\net5.0\DTO.pdb
+M:\web api\WebApiProject\DTO\bin\Debug\net5.0\Entities.dll
+M:\web api\WebApiProject\DTO\bin\Debug\net5.0\Entities.pdb
+M:\web api\WebApiProject\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+M:\web api\WebApiProject\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+M:\web api\WebApiProject\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+M:\web api\WebApiProject\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+M:\web api\WebApiProject\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+M:\web api\WebApiProject\DTO\obj\Debug\net5.0\DTO.dll
+M:\web api\WebApiProject\DTO\obj\Debug\net5.0\ref\DTO.dll
+M:\web api\WebApiProject\DTO\obj\Debug\net5.0\DTO.pdb
+M:\web api\WebApiProject\DTO\obj\Debug\net5.0\DTO.csproj.CopyComplete
